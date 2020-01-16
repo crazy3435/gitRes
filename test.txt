@@ -1,1 +1,4 @@
-A new file!
+A new file! now is modified!
+A new line!
+A new line!!
+One world, one dream!!
