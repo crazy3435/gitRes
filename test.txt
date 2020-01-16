@@ -2,3 +2,6 @@ A new file! now is modified!
 A new line!
 A new line!!
 One world, one dream!!
+
+
+A new line, but say nothing.
